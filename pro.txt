@@ -1,0 +1,5 @@
+the project contains following languages-
+python
+html
+css 
+javascript
